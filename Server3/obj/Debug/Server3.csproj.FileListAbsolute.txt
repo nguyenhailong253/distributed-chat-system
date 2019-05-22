@@ -1,0 +1,7 @@
+D:\Coding\Projects\NLP JOBS\C# Chat Program\Microsoft Async Server\AsyncSocket\Server3\bin\Debug\Server3.exe.config
+D:\Coding\Projects\NLP JOBS\C# Chat Program\Microsoft Async Server\AsyncSocket\Server3\bin\Debug\Server3.exe
+D:\Coding\Projects\NLP JOBS\C# Chat Program\Microsoft Async Server\AsyncSocket\Server3\bin\Debug\Server3.pdb
+D:\Coding\Projects\NLP JOBS\C# Chat Program\Microsoft Async Server\AsyncSocket\Server3\obj\Debug\Server3.csprojAssemblyReference.cache
+D:\Coding\Projects\NLP JOBS\C# Chat Program\Microsoft Async Server\AsyncSocket\Server3\obj\Debug\Server3.csproj.CoreCompileInputs.cache
+D:\Coding\Projects\NLP JOBS\C# Chat Program\Microsoft Async Server\AsyncSocket\Server3\obj\Debug\Server3.exe
+D:\Coding\Projects\NLP JOBS\C# Chat Program\Microsoft Async Server\AsyncSocket\Server3\obj\Debug\Server3.pdb
